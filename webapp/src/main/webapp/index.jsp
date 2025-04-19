@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning....LET go DevOps ;) </h1>
+   <h1> Thankyou, Happy Learning....LET go DevOps ;), This is automated CICD </h1>
 
   
 </form>
